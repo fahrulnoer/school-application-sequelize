@@ -1,1 +1,1 @@
-# school-application-sequelize
+# School Application Sequelize
